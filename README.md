@@ -1,6 +1,6 @@
 # Cisco Packet Tracer Lab - Multilayer Switching
 
-This lab continues from a <a href= "">previous exercise</a>, with SW2 replaced by a multilayer switch. The goal of this lab is to configure inter-VLAN routing and ensure connectivity to external networks using a Layer 3 point-to-point connection between SW2 and R1.
+This lab continues from a <a href= "https://github.com/ro-drick/VLAN-ROAS-Configuration">previous exercise</a>, with SW2 replaced by a multilayer switch. The goal of this lab is to configure inter-VLAN routing and ensure connectivity to external networks using a Layer 3 point-to-point connection between SW2 and R1.
 
 ## Lab Setup
 
