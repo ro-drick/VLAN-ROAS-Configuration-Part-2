@@ -1,6 +1,6 @@
-# Cisco Packet Tracer Lab - Day 18
+# Cisco Packet Tracer Lab - Multilayer Switching
 
-This lab continues from Day 17, with SW2 replaced by a multilayer switch. The goal of this lab is to configure inter-VLAN routing and ensure connectivity to external networks using a Layer 3 point-to-point connection between SW2 and R1.
+This lab continues from a <a href= "">previous exercise</a>, with SW2 replaced by a multilayer switch. The goal of this lab is to configure inter-VLAN routing and ensure connectivity to external networks using a Layer 3 point-to-point connection between SW2 and R1.
 
 ## Lab Setup
 
@@ -13,6 +13,8 @@ The network consists of the following components:
 - **PC5**: VLAN20 (10.0.0.64/26)
 - **PC6, PC7**: VLAN10 (10.0.0.0/26)
 - **Internet Cloud**: Simulated internet for testing external connectivity (ping 1.1.1.1)
+
+<img src="https://github.com/ro-drick/VLAN-ROAS-Configuration-Part-2/blob/main/VLANs_part3.PNG">
 
 ## Task Summary
 
